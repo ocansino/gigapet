@@ -1,0 +1,2 @@
+# gigapet
+a basic pet
